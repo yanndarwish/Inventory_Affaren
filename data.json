@@ -1,0 +1,6966 @@
+[
+  {
+    "id": "122889",
+    "name": "100 Frön & Havssalt",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 22,
+    "barcode": 7300400482165
+  },
+  {
+    "id": "201022",
+    "name": "A-fil 3% laktosfri",
+    "price": "5.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "211399",
+    "name": "A-fil Plus Dofilus GT 3",
+    "price": "4.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "124266",
+    "name": "Ahlgrens bilar",
+    "price": "2.8",
+    "tva": 5.5,
+    "stock": 21,
+    "barcode": 7310350132874
+  },
+  {
+    "id": "759751",
+    "name": "Ahlgrens bilar lakrits däck",
+    "price": "2.8",
+    "tva": 5.5,
+    "stock": 30,
+    "barcode": 7310350132881
+  },
+  {
+    "id": "124265",
+    "name": "Ahlgrens bilar Sursockrade",
+    "price": "2.8",
+    "tva": 5.5,
+    "stock": 50,
+    "barcode": 7310350132898
+  },
+  {
+    "id": "111910",
+    "name": "Aladdin",
+    "price": "28",
+    "tva": 5.5,
+    "stock": 4,
+    "barcode": 7310510002504
+  },
+  {
+    "id": "186007",
+    "name": "Ansjoviskryddad sill MSC",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "511073",
+    "name": "Antikljus 25cm ø22mm 10-pack beige",
+    "price": "",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 7310380241256
+  },
+  {
+    "id": "607207",
+    "name": "Antikljus 25cm ø22mm 8-pack röd",
+    "price": "6.8",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "606408",
+    "name": "Antikljus 25cm ø22mm 8-pack vit",
+    "price": "7.7",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "606407",
+    "name": "Antikljus stearin 25cm ø22mm röd",
+    "price": "36.8",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "111448",
+    "name": "Apelsinkrokant Chokladkaka",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310510001231
+  },
+  {
+    "id": "136303",
+    "name": "Apelsinmarmelad",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "150405",
+    "name": "Apelsinskal kanderat",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 5701073062708
+  },
+  {
+    "id": "124387",
+    "name": "Aquador stilla PET",
+    "price": "1.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "719573",
+    "name": "Arbogapastej minilimpa",
+    "price": "3.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310941803220
+  },
+  {
+    "id": "107695",
+    "name": "Aromat",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "702561",
+    "name": "Bacon skivat SE",
+    "price": "0",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "212453",
+    "name": "Baconost 17% tub",
+    "price": "7.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311441061608
+  },
+  {
+    "id": "600434",
+    "name": "Bakform 20x90mm",
+    "price": "0",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "169009",
+    "name": "Bakform Fettbeständigt papper 50x25mm vit",
+    "price": "4.6",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 7310275586158
+  },
+  {
+    "id": "605237",
+    "name": "Bakform stora bullformar Fettbeständigt papper 60x25mm vit",
+    "price": "3.8",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "605133",
+    "name": "Bakplåtspapper 33x42cm Guldhöken",
+    "price": "2.2",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 7332636000011
+  },
+  {
+    "id": "607054",
+    "name": "Bakplåtspapper 45x57cm",
+    "price": "0.1",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "110051",
+    "name": "Bakpulver ögon",
+    "price": "3.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 6416453068810
+  },
+  {
+    "id": "101507",
+    "name": "Ballerina kladdkaka",
+    "price": "5.6",
+    "tva": 5.5,
+    "stock": 10,
+    "barcode": 7310521397712
+  },
+  {
+    "id": "123712",
+    "name": "Ballerina Original",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 13,
+    "barcode": 7310520009326
+  },
+  {
+    "id": "184195",
+    "name": "BBQ sås Original",
+    "price": "16.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "123767",
+    "name": "BBQ-sås Black Garlic & Chili",
+    "price": "11",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7392031501100
+  },
+  {
+    "id": "207920",
+    "name": "Bearnaise kall sås flaska",
+    "price": "6.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "211754",
+    "name": "Bearnaise original",
+    "price": "5.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "206392",
+    "name": "Bearnaisesås",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "109192",
+    "name": "Bearnaisesås 3-p pulver",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7322550092001
+  },
+  {
+    "id": "206500",
+    "name": "Bearnaisesås chili",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7350042720132
+  },
+  {
+    "id": "117943",
+    "name": "Bikarbonat påse",
+    "price": "1.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311311004537
+  },
+  {
+    "id": "154669",
+    "name": "Bitsocker",
+    "price": "7.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "108622",
+    "name": "Björnbärskräm",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "124941",
+    "name": "Black Saltlakrits",
+    "price": "4.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "601354",
+    "name": "Blockljus paraffin 30h 130x60mm röd",
+    "price": "29.3",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "605388",
+    "name": "Blockljus paraffin 30h 135x60mm vit",
+    "price": "3.5",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "605389",
+    "name": "Blockljus paraffin 60h 150x80mm vit",
+    "price": "5.3",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "605390",
+    "name": "Blockljus paraffin 80h 220x70mm vit",
+    "price": "5.9",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "209426",
+    "name": "Blodpudding",
+    "price": "4.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310943092523
+  },
+  {
+    "id": "110278",
+    "name": "Blossa alkoholfri",
+    "price": "8.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "102459",
+    "name": "Blossa Lättglögg Röd",
+    "price": "12.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "101785",
+    "name": "Blåbärskräm extra prima",
+    "price": "7.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "401743",
+    "name": "Blåbärspaj",
+    "price": "9.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "184868",
+    "name": "Blåbärssoppa original",
+    "price": "5.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310470063195
+  },
+  {
+    "id": "184873",
+    "name": "Blåbärssoppa osockrad",
+    "price": "5.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310470070193
+  },
+  {
+    "id": "113280",
+    "name": "Bonaqua Naturell Källvatten ENGL",
+    "price": "1.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "112632",
+    "name": "Bostongurka original",
+    "price": "12.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310240150834
+  },
+  {
+    "id": "188265",
+    "name": "Bostongurka original",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310240050844
+  },
+  {
+    "id": "145753",
+    "name": "Brago",
+    "price": "5.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "240566",
+    "name": "Bratwurst Sverige",
+    "price": "6.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "207188",
+    "name": "Bratwurst 140g Sverige",
+    "price": "9.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "700638",
+    "name": "Bregott 75 % normalsaltat",
+    "price": "8.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310860005774
+  },
+  {
+    "id": "207312",
+    "name": "Bregott mellan 57%",
+    "price": "12.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "103277",
+    "name": "Bridgeblandning",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "154421",
+    "name": "Brio lösvikt",
+    "price": "1.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "107410",
+    "name": "Briska Cider Päron Alkoholfri ENGL",
+    "price": "2.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "112345",
+    "name": "Brisling i tomatsås",
+    "price": "6.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "244355",
+    "name": "Bruna bönor",
+    "price": "3.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "192622",
+    "name": "Bruna bönor Sverige",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7312787703887
+  },
+  {
+    "id": "109193",
+    "name": "Brunsås 3-pack",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7322550092032
+  },
+  {
+    "id": "205198",
+    "name": "Bränneboskinka rökt",
+    "price": "0",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "186012",
+    "name": "Brännvinssill MSC",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117944",
+    "name": "Brödkryddor malda påse",
+    "price": "1.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "409862",
+    "name": "Budapestbotten orginal",
+    "price": "50.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "213232",
+    "name": "Bullens Pilsnerkorv",
+    "price": "9.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7300203296006
+  },
+  {
+    "id": "105740",
+    "name": "Carlsberg 6-pack 3.5 % BRK",
+    "price": "19.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "158331",
+    "name": "Center rulle",
+    "price": "2.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310040021341
+  },
+  {
+    "id": "604529",
+    "name": "Cerat original",
+    "price": "3.5",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "124013",
+    "name": "Chai Grönt FT EKO",
+    "price": "15.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7350054815109
+  },
+  {
+    "id": "103567",
+    "name": "Champis BRK",
+    "price": "1.4",
+    "tva": 5.5,
+    "stock": 15,
+    "barcode": 7310401007144
+  },
+  {
+    "id": "120269",
+    "name": "Champis PET",
+    "price": "2.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310401000367
+  },
+  {
+    "id": "205799",
+    "name": "Cheddar dipp",
+    "price": "1.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "122121",
+    "name": "Cheez doodles",
+    "price": "1.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7300400382205
+  },
+  {
+    "id": "112780",
+    "name": "Cheez Doodles",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7340005403370
+  },
+  {
+    "id": "192563",
+    "name": "Chili Con Carne",
+    "price": "11.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310240064346
+  },
+  {
+    "id": "116945",
+    "name": "Chilisås glasflaska",
+    "price": "8.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 5900783007867
+  },
+  {
+    "id": "113600",
+    "name": "Chips Dill & Gräslök",
+    "price": "4.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "122123",
+    "name": "Chips Dill & Gräslök",
+    "price": "1.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "115752",
+    "name": "Chips Gräddfil & lök",
+    "price": "4.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310532106464
+  },
+  {
+    "id": "124593",
+    "name": "Chips Havssalt",
+    "price": "2.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "102100",
+    "name": "Chips Sourcream & onion",
+    "price": "1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310531027906
+  },
+  {
+    "id": "124592",
+    "name": "Chips Tryffel",
+    "price": "2.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7350045591500
+  },
+  {
+    "id": "290200",
+    "name": "Chokladbiskvi singel",
+    "price": "1.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "409558",
+    "name": "Chokladboll Lyx TS",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "774732",
+    "name": "Chokladflarn",
+    "price": "14",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "123190",
+    "name": "Chokladkaka Pepparkaka Limited Edition",
+    "price": "5.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "209297",
+    "name": "Chokladpudding",
+    "price": "1.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310470018263
+  },
+  {
+    "id": "102911",
+    "name": "Cider Fläder PET",
+    "price": "3.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "205305",
+    "name": "Citron & dillsås för ugnsbakad lax",
+    "price": "8.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "109196",
+    "name": "Citron dillsås 3-pack",
+    "price": "4.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "121287",
+    "name": "Citronpeppar glasburk",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311311016073
+  },
+  {
+    "id": "122317",
+    "name": "Citronpeppar glasburk",
+    "price": "2.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "121288",
+    "name": "Citronpeppar plastburk",
+    "price": "18.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311311016424
+  },
+  {
+    "id": "117946",
+    "name": "Citronsyra påse",
+    "price": "3.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311311004285
+  },
+  {
+    "id": "122509",
+    "name": "Coca-Cola Original 6-p BRK",
+    "price": "14.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "122462",
+    "name": "Coca-Cola Original BRK",
+    "price": "1.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 5000112637922
+  },
+  {
+    "id": "122470",
+    "name": "Coca-Cola zero BRK",
+    "price": "1.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 5000112637939
+  },
+  {
+    "id": "154437",
+    "name": "Cocosprickar lösvikt",
+    "price": "1.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "158490",
+    "name": "Cola Happy Chews lösvikt",
+    "price": "1.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "154339",
+    "name": "Colaflask stora lösvikt",
+    "price": "1.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "119889",
+    "name": "Daim Chokladkaka",
+    "price": "2.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7622201056629
+  },
+  {
+    "id": "119891",
+    "name": "Daim Chokladkaka",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "141978",
+    "name": "Daim dubbel",
+    "price": "1.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310511257507
+  },
+  {
+    "id": "112023",
+    "name": "Daim singel",
+    "price": "0.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310511250706
+  },
+  {
+    "id": "742357",
+    "name": "Delicatoboll singel",
+    "price": "1.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7315360010754
+  },
+  {
+    "id": "185974",
+    "name": "Delikatess Sesam",
+    "price": "5.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "183959",
+    "name": "Delikatessknäcke",
+    "price": "6.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7300400121644
+  },
+  {
+    "id": "112296",
+    "name": "Dextro Energy Lemon Sticks",
+    "price": "2.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 87111781
+  },
+  {
+    "id": "112294",
+    "name": "Dextro Neutral Sticks",
+    "price": "2.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "244587",
+    "name": "Digestive EKO",
+    "price": "10.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "154551",
+    "name": "Digestive fullkorn oliv",
+    "price": "7.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "184010",
+    "name": "Digestive utan tillsatt socker",
+    "price": "7.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "101120",
+    "name": "Digestivekex",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "115753",
+    "name": "Dillchips",
+    "price": "4.17",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310532106488
+  },
+  {
+    "id": "122797",
+    "name": "Din Harmoni Vallmofrö & Havssalt",
+    "price": "6.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7300400482233
+  },
+  {
+    "id": "121798",
+    "name": "Din Stund Chia & Havssalt",
+    "price": "7.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7300400482691
+  },
+  {
+    "id": "191813",
+    "name": "Dinkelmjöl fullkorn",
+    "price": "6.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310130011412
+  },
+  {
+    "id": "184630",
+    "name": "Dinkelmjöl siktat",
+    "price": "11",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "102069",
+    "name": "Dipmix Dill",
+    "price": "1.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310531037103
+  },
+  {
+    "id": "102073",
+    "name": "Dipmix Holiday",
+    "price": "1.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310531037905
+  },
+  {
+    "id": "112792",
+    "name": "Dipmix Ranch",
+    "price": "1.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310532131428
+  },
+  {
+    "id": "124177",
+    "name": "Dipmix Rostad Paprika och Vitlök",
+    "price": "2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310532131947
+  },
+  {
+    "id": "102072",
+    "name": "Dipmix Sourcream onion",
+    "price": "1.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310532130513
+  },
+  {
+    "id": "116984",
+    "name": "Dippmix Chipotle Cheddar",
+    "price": "2.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "116975",
+    "name": "Dippmix Dill & Gräslök",
+    "price": "2.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7340005404223
+  },
+  {
+    "id": "116982",
+    "name": "Dippmix Fresh Island",
+    "price": "2.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7340005404278
+  },
+  {
+    "id": "116981",
+    "name": "Dippmix Ranch",
+    "price": "2.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7340005404261
+  },
+  {
+    "id": "116978",
+    "name": "Dippmix Vitlök",
+    "price": "2.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "729595",
+    "name": "Diskborste classic mix",
+    "price": "1.5",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 7330671012600
+  },
+  {
+    "id": "605562",
+    "name": "Diskmedel Original 650ml",
+    "price": "9.2",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "119408",
+    "name": "Djungelvrål",
+    "price": "1.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310350109029
+  },
+  {
+    "id": "132376",
+    "name": "Dragster super salta",
+    "price": "1.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "132375",
+    "name": "Dragster supersura",
+    "price": "1.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "108573",
+    "name": "Drömkrisp Chokladkaka",
+    "price": "3.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "121522",
+    "name": "Dubbel Nougat",
+    "price": "1.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "154334",
+    "name": "Dumle original lösvikt",
+    "price": "2.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "606124",
+    "name": "Duschcreme Fresh 250ml",
+    "price": "4.4",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "606122",
+    "name": "Duschcreme Sport 250ml",
+    "price": "4.4",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 4005900553522
+  },
+  {
+    "id": "104786",
+    "name": "Elderflower soda EKO ENGL",
+    "price": "3.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "133794",
+    "name": "Emser",
+    "price": "1.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 6411401035562
+  },
+  {
+    "id": "122253",
+    "name": "Engelsk konfekt lösvikt",
+    "price": "19.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "115238",
+    "name": "Extra Professional strong mint",
+    "price": "5.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "157220",
+    "name": "Extra Salt Licorice",
+    "price": "5.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "124292",
+    "name": "Extra White bubblemint",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 4009900519762
+  },
+  {
+    "id": "118383",
+    "name": "Extra White Spearmint",
+    "price": "5.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "105744",
+    "name": "Falcon Extra Brew 3.5% BRK",
+    "price": "16.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "182922",
+    "name": "Falu Råg-rut Knäckebröd",
+    "price": "4.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7300400114783
+  },
+  {
+    "id": "240563",
+    "name": "Falukorv Sverige",
+    "price": "6.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7300206338000
+  },
+  {
+    "id": "240593",
+    "name": "Falukorv ring Sverige",
+    "price": "11",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7300206787006
+  },
+  {
+    "id": "122786",
+    "name": "Fanta Exotic PET",
+    "price": "3",
+    "tva": 5.5,
+    "stock": 4,
+    "barcode": 90490705
+  },
+  {
+    "id": "106091",
+    "name": "Farinsocker",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "107778",
+    "name": "Fast vardagsblomsterhonung",
+    "price": "10.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7350071870082
+  },
+  {
+    "id": "116592",
+    "name": "Fazer mjölkchoklad lösvikt",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "135531",
+    "name": "Fazermint lösvikt",
+    "price": "2.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "154353",
+    "name": "Ferrari lösvikt",
+    "price": "1.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "124791",
+    "name": "Festis Apelsin EKO BRIK",
+    "price": "1.2",
+    "tva": 5.5,
+    "stock": 10,
+    "barcode": 73165637
+  },
+  {
+    "id": "124811",
+    "name": "Festis Hallon EKO BRIK",
+    "price": "1.2",
+    "tva": 5.5,
+    "stock": 9,
+    "barcode": 73165651
+  },
+  {
+    "id": "124790",
+    "name": "Festis Päron EKO BRIK",
+    "price": "1.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 73165644
+  },
+  {
+    "id": "205442",
+    "name": "Filmjölk 3%",
+    "price": "4.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310865087935
+  },
+  {
+    "id": "205447",
+    "name": "Filmjölk blåb hall 2.7%",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "205559",
+    "name": "Filmjölk blåbär 2.7%",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "205448",
+    "name": "Filmjölk jordgubb 2.7%",
+    "price": "7.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "205069",
+    "name": "Filmjölk jordgubb 3%",
+    "price": "5.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "201930",
+    "name": "Filmjölk LF 3%",
+    "price": "9.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "208415",
+    "name": "Filmjölk LF KRAV",
+    "price": "8.5",
+    "tva": 5.5,
+    "stock": 3,
+    "barcode": 7310865094117
+  },
+  {
+    "id": "245003",
+    "name": "Fina Rågkex",
+    "price": "5.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "187636",
+    "name": "Finn Crisp caraway",
+    "price": "3.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 6410500900108
+  },
+  {
+    "id": "184356",
+    "name": "Finn Crisp Original",
+    "price": "3.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 6410500090014
+  },
+  {
+    "id": "117457",
+    "name": "Fiskbuljong 6-pack",
+    "price": "4.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 8714100284261
+  },
+  {
+    "id": "109392",
+    "name": "Fiskbullar i buljong",
+    "price": "5.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311170041018
+  },
+  {
+    "id": "109394",
+    "name": "Fiskbullar i dillsås",
+    "price": "5.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311170041346
+  },
+  {
+    "id": "109393",
+    "name": "Fiskbullar i hummersås MSC",
+    "price": "7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311170041049
+  },
+  {
+    "id": "109395",
+    "name": "Fiskbullar i räksås",
+    "price": "7.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "423887",
+    "name": "Fiskgratäng Dill MSC",
+    "price": "9.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310500038803
+  },
+  {
+    "id": "423888",
+    "name": "Fiskgratäng räkor och dill MSC",
+    "price": "11",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "109198",
+    "name": "Fisksås 3-pack",
+    "price": "4.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "108000",
+    "name": "Fläderblomssaft KRAV",
+    "price": "6.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117562",
+    "name": "Flädersaft",
+    "price": "9.2",
+    "tva": 5.5,
+    "stock": 8,
+    "barcode": 7310770548583
+  },
+  {
+    "id": "408883",
+    "name": "Fria Fiber Glutenfri Tina och servera",
+    "price": "12.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "158091",
+    "name": "Frukt & Mandel chokladkaka",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "158076",
+    "name": "Frukt & Mandel Chokladkaka",
+    "price": "2.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310511217303
+  },
+  {
+    "id": "202680",
+    "name": "Fruktdr Apelsin Passionsfrukt",
+    "price": "7.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "108258",
+    "name": "Fruktgröt Päron Banan 8 mån osockrad",
+    "price": "10.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7312170029174
+  },
+  {
+    "id": "101093",
+    "name": "Fruktmüsli Glutenfri",
+    "price": "14",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "154357",
+    "name": "Fruktnappar lösvikt",
+    "price": "1.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "141787",
+    "name": "Fruxo tablettask",
+    "price": "0.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310780002365
+  },
+  {
+    "id": "119924",
+    "name": "Fröknäcke Havre/Solros",
+    "price": "8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "119925",
+    "name": "Fröknäcke Örter/Havssal",
+    "price": "8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "407748",
+    "name": "Frökusar fryst Tina och servera",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7314879190018
+  },
+  {
+    "id": "101778",
+    "name": "Fullkornsgröt mild med frukt 8 mån osockrad",
+    "price": "15.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "124739",
+    "name": "Fäbodknäcke Frön & Havssalt",
+    "price": "11.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7312080003646
+  },
+  {
+    "id": "715343",
+    "name": "Färskost Naturell 21%",
+    "price": "19.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "206887",
+    "name": "Färskost Pepparrot 10%",
+    "price": "10.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "190754",
+    "name": "F-müsli Guld nöt",
+    "price": "8.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 5701029160823
+  },
+  {
+    "id": "123240",
+    "name": "Geisha",
+    "price": "2.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "112839",
+    "name": "Geisha lösvikt",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "164387",
+    "name": "Gelatinblad extra",
+    "price": "2.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "120105",
+    "name": "Geléhallon",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 6411401036699
+  },
+  {
+    "id": "709930",
+    "name": "Gelehallon lösvikt",
+    "price": "0.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "213021",
+    "name": "Gifflar kanel",
+    "price": "6.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311070006209
+  },
+  {
+    "id": "117945",
+    "name": "Glöggkryddor påse",
+    "price": "5.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "108008",
+    "name": "God jul glögg alkfri",
+    "price": "7.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "410485",
+    "name": "Godingar Kanel",
+    "price": "3.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "750683",
+    "name": "Gott & Blandat Original",
+    "price": "2.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310350504305
+  },
+  {
+    "id": "111788",
+    "name": "Gott & Blandat Salt lösvikt",
+    "price": "27.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "107592",
+    "name": "Gott & Blandat Supersur",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310350116256
+  },
+  {
+    "id": "114889",
+    "name": "Grahamsmjöl",
+    "price": "8.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310130006067
+  },
+  {
+    "id": "120053",
+    "name": "Granola blåbär glutenfri",
+    "price": "13.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "167941",
+    "name": "Granola naturell",
+    "price": "10.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "109223",
+    "name": "Grape Tonic PET",
+    "price": "1.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "120249",
+    "name": "Grape Tonic PET",
+    "price": "2.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "212866",
+    "name": "Gravlaxsås",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "209115",
+    "name": "Grebbestads® Ansjovisfilé Original",
+    "price": "8.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311170022116
+  },
+  {
+    "id": "207667",
+    "name": "Greve 28% SB",
+    "price": "0",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "115754",
+    "name": "Grillchips",
+    "price": "4.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310532106501
+  },
+  {
+    "id": "200207",
+    "name": "Grillkorv tunt skinn Sverige",
+    "price": "9.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "121295",
+    "name": "Grillkrydda",
+    "price": "3.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311311014192
+  },
+  {
+    "id": "121299",
+    "name": "Grillkrydda",
+    "price": "18.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311311014024
+  },
+  {
+    "id": "401652",
+    "name": "Grovlimpa med lingon Tina och servera",
+    "price": "7.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "404326",
+    "name": "Grovlimpa skivad fryst Tina och servera",
+    "price": "6.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "201321",
+    "name": "Gräddfil 12%",
+    "price": "2.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310865004703
+  },
+  {
+    "id": "100856",
+    "name": "Gräddnougat Kaka",
+    "price": "3.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "109199",
+    "name": "Gräddsås 3-pack",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7322550092025
+  },
+  {
+    "id": "708906",
+    "name": "Gröna grodor lösvikt",
+    "price": "1.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "180119",
+    "name": "Grönsaksfond 0.8% salt",
+    "price": "9.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7322550052708
+  },
+  {
+    "id": "192623",
+    "name": "Gula ärtor kapsel",
+    "price": "3.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7312787703627
+  },
+  {
+    "id": "184519",
+    "name": "Gulaschsoppa Österrikisk",
+    "price": "9.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310240064377
+  },
+  {
+    "id": "123095",
+    "name": "Guld",
+    "price": "21.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "162698",
+    "name": "Guld Marie",
+    "price": "2.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310521050204
+  },
+  {
+    "id": "204932",
+    "name": "Guldsalami skiv",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "774365",
+    "name": "Gyllene Grova lingon havre Tina och servera",
+    "price": "7.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "753100",
+    "name": "Gyllene vört Tina och servera",
+    "price": "6.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "114632",
+    "name": "Hallon Lakrits Skalle Påse Fairtrade",
+    "price": "1.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "114634",
+    "name": "Hallon Lakrits Skalle Skum Fairtrade",
+    "price": "1.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "110364",
+    "name": "Hallon lakritsskalle micro lösvikt",
+    "price": "23",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "726271",
+    "name": "Halloumi",
+    "price": "7.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7331494128035
+  },
+  {
+    "id": "108701",
+    "name": "Hals Eucalyptys",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "111794",
+    "name": "Hals Ingefära citron",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "187965",
+    "name": "Hamburgerdressing Amerikansk tub",
+    "price": "3.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "123738",
+    "name": "Hamburgerdressing Original",
+    "price": "8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7392005801502
+  },
+  {
+    "id": "208967",
+    "name": "Hamburgerdressing pipflaska",
+    "price": "17.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "206841",
+    "name": "Havredryck Naturell",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "791380",
+    "name": "Havreflarn",
+    "price": "15.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "116430",
+    "name": "Havrefras",
+    "price": "11.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311171008423
+  },
+  {
+    "id": "147415",
+    "name": "Havregryn påse",
+    "price": "5.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310130321122
+  },
+  {
+    "id": "206849",
+    "name": "Havregurt Naturell",
+    "price": "9.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "185873",
+    "name": "Havreknäcke 280 gr",
+    "price": "6.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7300400121859
+  },
+  {
+    "id": "113329",
+    "name": "Havreknäcke GF LF",
+    "price": "10.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310100600462
+  },
+  {
+    "id": "123733",
+    "name": "Hellmann’s American Style Yellow mustard senap",
+    "price": "6.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 8714100695876
+  },
+  {
+    "id": "158092",
+    "name": "Helnöt Chokladkaka",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "207665",
+    "name": "Herrgård 28%",
+    "price": "0",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "120407",
+    "name": "Herrgård 28% 12 månader",
+    "price": "20",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "106787",
+    "name": "Herrgårdscider Päron 0.3% ENGL",
+    "price": "5.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117947",
+    "name": "Hjorthornsalt påse",
+    "price": "1.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "132722",
+    "name": "Hjortronsylt extra prima",
+    "price": "18.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "111711",
+    "name": "Holk enkla stycksaker",
+    "price": "1.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "109201",
+    "name": "Hollandaisesås 3-pack",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7322550092018
+  },
+  {
+    "id": "181103",
+    "name": "Hovmästarsås glasburk",
+    "price": "3.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310155800251
+  },
+  {
+    "id": "606268",
+    "name": "Hudsalva Idomin 50g",
+    "price": "5",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 7310610011345
+  },
+  {
+    "id": "180122",
+    "name": "Hummerfond 0.8% salt",
+    "price": "9.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "204525",
+    "name": "Hushållsost 26 % NB",
+    "price": "14.95",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 2340374705339
+  },
+  {
+    "id": "183957",
+    "name": "Husman",
+    "price": "3.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7300400118415
+  },
+  {
+    "id": "109473",
+    "name": "Idealmakaroner gammeldags",
+    "price": "3.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310130003547
+  },
+  {
+    "id": "207322",
+    "name": "iKaffe",
+    "price": "3.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7394376616037
+  },
+  {
+    "id": "117949",
+    "name": "Ingefära malen påse",
+    "price": "1.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311311004551
+  },
+  {
+    "id": "186050",
+    "name": "Inlagd sill bit MSC",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311171004050
+  },
+  {
+    "id": "106670",
+    "name": "Inlagd sill MSC",
+    "price": "11.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311171007938
+  },
+  {
+    "id": "183614",
+    "name": "Inläggnings sill 5min",
+    "price": "10.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311171007938
+  },
+  {
+    "id": "206276",
+    "name": "Isterband 150 g Sverige",
+    "price": "0",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "206017",
+    "name": "Isterband småländska",
+    "price": "6.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "404228",
+    "name": "Janssons frestelse",
+    "price": "9.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "112887",
+    "name": "Japp Chokladkaka",
+    "price": "5.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "122288",
+    "name": "Japp dubbel",
+    "price": "1.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117565",
+    "name": "Jordgubbssaft",
+    "price": "8.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "108001",
+    "name": "Jordgubbssaft KRAV",
+    "price": "8.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "124188",
+    "name": "Jordnötsringar",
+    "price": "3.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310532114001
+  },
+  {
+    "id": "799957",
+    "name": "Jordnötsruta lösvikt",
+    "price": "1.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "204933",
+    "name": "Jubelsalami skivad SV",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "213094",
+    "name": "Juice Apelsin Morot Ingefära Chili PET",
+    "price": "12.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "203296",
+    "name": "Juledamer Baby Säsongsvara",
+    "price": "24.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117495",
+    "name": "Juleskum chokladdoppad burk",
+    "price": "15.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "192898",
+    "name": "Julknäcke",
+    "price": "5.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "700122",
+    "name": "Julkorv kokt SE",
+    "price": "15.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "103025",
+    "name": "Julmust PET",
+    "price": "2.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "116129",
+    "name": "Julmust PET",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "119711",
+    "name": "Julmust Premium ENGL",
+    "price": "2.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "121821",
+    "name": "Julsenap glasburk",
+    "price": "6.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "406273",
+    "name": "Julvört skivad russin Tina och servera",
+    "price": "7.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "401814",
+    "name": "Julvört utan russin skivad Tina och servera",
+    "price": "7.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "208562",
+    "name": "Jäst bageri söt",
+    "price": "9.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "104916",
+    "name": "Kaffe mellanrost brygg",
+    "price": "22.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "120208",
+    "name": "Kaffe mellanrost brygg",
+    "price": "14.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 8711000530085
+  },
+  {
+    "id": "122232",
+    "name": "Kaffe mellanrost brygg",
+    "price": "9.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "121510",
+    "name": "Kaffe Mellanrost Brygg",
+    "price": "11.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "118081",
+    "name": "Kaffe mellanrost brygg Bistro",
+    "price": "14.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "104913",
+    "name": "Kaffe mellanrost bryggmalet påse",
+    "price": "12.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "109837",
+    "name": "Kaffe mellanrost Fair brygg EKO",
+    "price": "14.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310050001777
+  },
+  {
+    "id": "104914",
+    "name": "Kaffe mellanrost maskinbrygg",
+    "price": "10.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "114722",
+    "name": "Kaffe skånerost brygg RA",
+    "price": "16.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310731101734
+  },
+  {
+    "id": "111477",
+    "name": "Kakao ögon",
+    "price": "8.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 6416453062320
+  },
+  {
+    "id": "201383",
+    "name": "Kalles Original MSC",
+    "price": "5.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311170031118
+  },
+  {
+    "id": "209094",
+    "name": "Kalles Original. KRAV MSC",
+    "price": "17.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "192242",
+    "name": "Kalles Randiga MSC",
+    "price": "7.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311171001943
+  },
+  {
+    "id": "180120",
+    "name": "Kalvfond 0.8% salt",
+    "price": "9.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7322550052715
+  },
+  {
+    "id": "209009",
+    "name": "Kalvsylta Deli Sverige",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "606409",
+    "name": "Kanalljus stearin 20cm ø24mm brinntid 6 tim vit",
+    "price": "55.1",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "121305",
+    "name": "Kanel malen glasburk",
+    "price": "3.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117951",
+    "name": "Kanel malen påse",
+    "price": "1.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117971",
+    "name": "Kanel malen påse",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311311004803
+  },
+  {
+    "id": "180077",
+    "name": "Kantarellsoppa",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7322550031833
+  },
+  {
+    "id": "109203",
+    "name": "Kantarellsås 3-pack",
+    "price": "5.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7322550092216
+  },
+  {
+    "id": "121309",
+    "name": "Kardemumma malen glasburk",
+    "price": "7.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117953",
+    "name": "Kardemumma malen påse",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117954",
+    "name": "Kardemummakärnor påse",
+    "price": "4.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "114552",
+    "name": "Kardemummaskorpor",
+    "price": "5.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "734034",
+    "name": "Kardemummaskorpor",
+    "price": "26.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "760870",
+    "name": "Kardemummaskorpor",
+    "price": "6.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "123239",
+    "name": "Karl Fazer Mjölkchoklad",
+    "price": "2.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 6416453015746
+  },
+  {
+    "id": "400318",
+    "name": "Kavring Böste skivat Tina och servera",
+    "price": "7.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "208442",
+    "name": "Keso 4% KRAV",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "209922",
+    "name": "Keso Naturell 1.5% LF",
+    "price": "11.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "212563",
+    "name": "Keso Naturell 4%",
+    "price": "4.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "101561",
+    "name": "Ketchup plastflaska",
+    "price": "8.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "103298",
+    "name": "Kexchoklad mini påse",
+    "price": "5.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "107090",
+    "name": "Kexchoklad minibit lösvikt.",
+    "price": "2.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "141794",
+    "name": "Kexchoklad stycksak",
+    "price": "0.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310040027565
+  },
+  {
+    "id": "124654",
+    "name": "Kexchoklad Vegan 40g",
+    "price": "2.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310350132669
+  },
+  {
+    "id": "122648",
+    "name": "Kick Mango limited edition",
+    "price": "0.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "119452",
+    "name": "Kick Original",
+    "price": "0.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 5700417006804
+  },
+  {
+    "id": "777365",
+    "name": "Kick original lösvikt",
+    "price": "2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "110409",
+    "name": "Kick Sea salt",
+    "price": "0.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310350117116
+  },
+  {
+    "id": "120814",
+    "name": "Kick Sea Salt Caramel",
+    "price": "0.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310350129140
+  },
+  {
+    "id": "120342",
+    "name": "Kina gul snacks",
+    "price": "2.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 6416453039131
+  },
+  {
+    "id": "121201",
+    "name": "Kina Gul Snacks",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "121202",
+    "name": "Kina Röd Snacks",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "425253",
+    "name": "Kladdkaka Tina och servera",
+    "price": "8.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "410957",
+    "name": "Kladdkaka vegansk tina och servera",
+    "price": "8.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310890203652
+  },
+  {
+    "id": "409055",
+    "name": "Klassiska Köttbullar",
+    "price": "14.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310240039535
+  },
+  {
+    "id": "111064",
+    "name": "Knäcke Fäbod original",
+    "price": "11",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7312080003615
+  },
+  {
+    "id": "111065",
+    "name": "Knäcke Fäbod surdeg",
+    "price": "14.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "108672",
+    "name": "Knäcke rund brungräddat",
+    "price": "6.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7312082001039
+  },
+  {
+    "id": "108671",
+    "name": "Knäcke rund normalgräddat",
+    "price": "6.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7312082001015
+  },
+  {
+    "id": "108784",
+    "name": "Knäcke surdeg flerkorn",
+    "price": "5.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7300400128926
+  },
+  {
+    "id": "109163",
+    "name": "Knäcke Surdeg Gourmet",
+    "price": "15.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "108673",
+    "name": "Knäcke trekant brungräddat",
+    "price": "2.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7312080004025
+  },
+  {
+    "id": "120191",
+    "name": "Knäcke trekant KRAV",
+    "price": "4.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "147235",
+    "name": "Knäckebröd Frukost",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7300400248204
+  },
+  {
+    "id": "119236",
+    "name": "Knäckebröd Naturell Glutenfri Laktosfri",
+    "price": "10.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "119239",
+    "name": "Knäckebröd Sesam & havssalt Gluten & Laktosfri",
+    "price": "8.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "605638",
+    "name": "Knäckformar Fettbeständigt papper 18x14mm vit",
+    "price": "3.8",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "209869",
+    "name": "Korv Enrisrökt Sverige",
+    "price": "7.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "742973",
+    "name": "Korvbröd 10-pack Tina och servera",
+    "price": "3.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311379537015
+  },
+  {
+    "id": "404147",
+    "name": "Korvbröd 16-pack Tina och servera",
+    "price": "5.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "408894",
+    "name": "Korvbröd Glutenfri Laktosfri Tina och servera",
+    "price": "8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "900844",
+    "name": "Korvbröd ljust Tina och servera",
+    "price": "5.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "786468",
+    "name": "Kristina Kardemumma skorpor",
+    "price": "5.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "150453",
+    "name": "Kristyr vit",
+    "price": "5.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "212370",
+    "name": "Kronjäst för söta degar färsk",
+    "price": "0.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 73500360
+  },
+  {
+    "id": "212369",
+    "name": "Kronjäst matbröd färsk",
+    "price": "0.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 73500391
+  },
+  {
+    "id": "600676",
+    "name": "Kronljus 24cm ø22mm 10-p vit",
+    "price": "10.7",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 4002911152591
+  },
+  {
+    "id": "201408",
+    "name": "Kronljus 28cm ø22mm 8-p rosa",
+    "price": "",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 7350023011099
+  },
+  {
+    "id": "201404",
+    "name": "Kronljus 28cm ø22mm 8-p grå",
+    "price": "",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 7350023011051
+  },
+  {
+    "id": "(",
+    "name": "Kronljus 24cm ø22mm 8-p grön",
+    "price": "",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 7350023011754
+  },
+  {
+    "id": "(",
+    "name": "Kronljus 24cm ø22mm 8-p svart",
+    "price": "",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 7350023011853
+  },
+  {
+    "id": "605548",
+    "name": "Kronljus stearin 20cm ø22mm 10-pack röd",
+    "price": "8.9",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 7350023011570
+  },
+  {
+    "id": "900900",
+    "name": "Kronljus stearin 20cm ø22mm vit",
+    "price": "20",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 7301002408676
+  },
+  {
+    "id": "900901",
+    "name": "Kronljus stearin 25cm ø22mm vit",
+    "price": "26.3",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117972",
+    "name": "Kryddpeppar hel påse",
+    "price": "5.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311311004797
+  },
+  {
+    "id": "121321",
+    "name": "Kryddpeppar malen",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "205677",
+    "name": "Kräftost 17% tub",
+    "price": "13.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "145580",
+    "name": "Kung Oscar Välkryddade Pepparkakor original",
+    "price": "5.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310521058507
+  },
+  {
+    "id": "180121",
+    "name": "Kycklingfond 0.8% salt",
+    "price": "9.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7322550052722
+  },
+  {
+    "id": "114885",
+    "name": "Kärnvetemjöl",
+    "price": "5.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310130006043
+  },
+  {
+    "id": "114886",
+    "name": "Kärnvetemjöl",
+    "price": "9.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "240539",
+    "name": "Köttkorv kokt Sverige",
+    "price": "7.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "192320",
+    "name": "Köttsoppa m grönsaker",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310500025285
+  },
+  {
+    "id": "158029",
+    "name": "Lakrifun lösvikt",
+    "price": "1.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "156520",
+    "name": "Lakrisal",
+    "price": "0.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "124253",
+    "name": "Lakrits choklad lakrits",
+    "price": "5.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "124255",
+    "name": "Lakrits choklad turkisk peppar",
+    "price": "5.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "709935",
+    "name": "Lakritsbåtar lösvikt",
+    "price": "1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "118458",
+    "name": "Lakritsi Chocolate",
+    "price": "0.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "118456",
+    "name": "Lakritsi Lemon",
+    "price": "0.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 6416453061354
+  },
+  {
+    "id": "121205",
+    "name": "Lakritsi Mint",
+    "price": "0.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 6416453061446
+  },
+  {
+    "id": "118457",
+    "name": "Lakritsi Original",
+    "price": "0.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "118482",
+    "name": "Lakritsi Raspberry",
+    "price": "0.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 6416453061385
+  },
+  {
+    "id": "118459",
+    "name": "Lakritsi Salmiak",
+    "price": "0.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 6416453061392
+  },
+  {
+    "id": "118463",
+    "name": "Lakritsi Smoot Salmiak",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "118461",
+    "name": "Lakritsi Soft Original",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "407794",
+    "name": "Lantbröd m havssalt",
+    "price": "7.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "126350",
+    "name": "Lantchips Gräddfil",
+    "price": "4.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7392659002102
+  },
+  {
+    "id": "745125",
+    "name": "Lantchips Gräddfil",
+    "price": "1.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7392659005721
+  },
+  {
+    "id": "767847",
+    "name": "Lantchips Gräddfil & Lök",
+    "price": "4.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "126339",
+    "name": "Lantchips lättsaltade",
+    "price": "4.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7392659002003
+  },
+  {
+    "id": "121236",
+    "name": "Lapin Kulta 3.5% BRK",
+    "price": "1.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 6413600091226
+  },
+  {
+    "id": "121236",
+    "name": "Lapin Kulta 3.5% BRK",
+    "price": "9.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 6413605091221
+  },
+  {
+    "id": "115614",
+    "name": "Laxbullar i hummersås",
+    "price": "6.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "212361",
+    "name": "Laxfilé gravad skivad. 150 g",
+    "price": "11.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "212360",
+    "name": "Laxfilé kallrökt skivad. 150 g",
+    "price": "11.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7393423001154
+  },
+  {
+    "id": "739615",
+    "name": "Leverpastej bredbar",
+    "price": "2.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "135529",
+    "name": "Likörkonfekt lösvikt",
+    "price": "2.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "106024",
+    "name": "Linfrö helt",
+    "price": "12.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "124342",
+    "name": "Linfrön Hela",
+    "price": "3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "701659",
+    "name": "Lingonkraft Tina och servera mjölkfritt",
+    "price": "9.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "100468",
+    "name": "Lingonsylt",
+    "price": "19.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "107258",
+    "name": "Lingonsylt",
+    "price": "8.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7313590199508
+  },
+  {
+    "id": "114986",
+    "name": "Lingonsylt KRAV",
+    "price": "20.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "112403",
+    "name": "Lingonsylt mer bär & mindre socker",
+    "price": "13.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "900524",
+    "name": "Lingonsylt refill",
+    "price": "8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117598",
+    "name": "Linschips Gräddfil & Lök",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "124510",
+    "name": "Linschips Ost och Rödlök",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "124603",
+    "name": "Linschips Ramslök & Gräddfil",
+    "price": "3.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "121130",
+    "name": "Linschips Ranch & Sourcream",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "123002",
+    "name": "Linschips Roasted Onion",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "603968",
+    "name": "Ljuslykta Billy 140x75mm metall",
+    "price": "20.3",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "604994",
+    "name": "Ljuslykta Bliss gold 140x75mm metall",
+    "price": "27.5",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "103251",
+    "name": "Loka citron BRK",
+    "price": "0.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "115526",
+    "name": "Loka Crush Hallon BRK",
+    "price": "1.5",
+    "tva": 5.5,
+    "stock": 4,
+    "barcode": 7310401021010
+  },
+  {
+    "id": "123521",
+    "name": "Loka Crush Jordgubb PET",
+    "price": "2.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "115525",
+    "name": "Loka Crush Päron BRK",
+    "price": "1.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "123551",
+    "name": "Loka Crush Päron PET",
+    "price": "2.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "123808",
+    "name": "Loka Crush Tropisk PET",
+    "price": "2.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "124803",
+    "name": "Loka Fläder Päron PET",
+    "price": "1.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310401043050
+  },
+  {
+    "id": "124561",
+    "name": "Loka Jordgubb Granatäpple PET",
+    "price": "1.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "111224",
+    "name": "Loka Naturell 12-p PET",
+    "price": "1.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "103252",
+    "name": "Loka naturell BRK",
+    "price": "0.8",
+    "tva": 5.5,
+    "stock": 15,
+    "barcode": 7310401007120
+  },
+  {
+    "id": "120311",
+    "name": "Loka naturell PET",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "123509",
+    "name": "Loka naturell PET",
+    "price": "1.9",
+    "tva": 5.5,
+    "stock": 12,
+    "barcode": 7310400020182
+  },
+  {
+    "id": "186134",
+    "name": "Loka naturell REGL",
+    "price": "0.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "123549",
+    "name": "Loka citron PET",
+    "price": "1.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310400020731
+  },
+  {
+    "id": "103253",
+    "name": "Loka Päron BRK",
+    "price": "0.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "123504",
+    "name": "Loka Päron PET",
+    "price": "1.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "123510",
+    "name": "Loka Solig Citrus PET",
+    "price": "1.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "108259",
+    "name": "Lågkalori Äppelmos",
+    "price": "8.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "209868",
+    "name": "Läckökorv Sverige",
+    "price": "7.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "112816",
+    "name": "Läkerol Bon Bons",
+    "price": "1.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310350118540
+  },
+  {
+    "id": "112809",
+    "name": "Läkerol Cactus",
+    "price": "1.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310350118496
+  },
+  {
+    "id": "112811",
+    "name": "Läkerol Cassis",
+    "price": "1.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310350118465
+  },
+  {
+    "id": "124664",
+    "name": "Läkerol Classic Red Orange",
+    "price": "1.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "112814",
+    "name": "Läkerol Eucalyptus",
+    "price": "1.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "112813",
+    "name": "Läkerol Original",
+    "price": "1.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "123631",
+    "name": "Läkerol Raspberry Licorice",
+    "price": "1.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "124247",
+    "name": "Läkerol Raspberry Licortice Big",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310350132805
+  },
+  {
+    "id": "112808",
+    "name": "Läkerol Salmiak",
+    "price": "1.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310350118519
+  },
+  {
+    "id": "112823",
+    "name": "Läkerol Salty Caramel",
+    "price": "1.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "112807",
+    "name": "Läkerol Salvi",
+    "price": "1.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310350118595
+  },
+  {
+    "id": "112818",
+    "name": "Läkerol Seasalt",
+    "price": "1.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "122160",
+    "name": "Läkerol Äpple Fläder",
+    "price": "1.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "102329",
+    "name": "Lättdryck lingon tranbär",
+    "price": "1.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "205446",
+    "name": "Lättfil 0.5%",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "115758",
+    "name": "Lättsaltade Potatischip",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "121322",
+    "name": "Lökpulver",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "186047",
+    "name": "Löksill bit MSC",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311171004067
+  },
+  {
+    "id": "186006",
+    "name": "Löksill fransk bit MSC",
+    "price": "5.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311171004128
+  },
+  {
+    "id": "106671",
+    "name": "Löksill MSC",
+    "price": "11.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311171006511
+  },
+  {
+    "id": "107516",
+    "name": "M peanut påse",
+    "price": "3.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "187970",
+    "name": "Majonnäs äkta tub 77%",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "116771",
+    "name": "Majonnäs äkta tub 81%",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "106961",
+    "name": "Majsfusilli Glutenfri",
+    "price": "7.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "114776",
+    "name": "Majsvälling 6 mån",
+    "price": "20.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "180878",
+    "name": "Makaroner glutenfria",
+    "price": "8.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "123014",
+    "name": "Makrillfilé Dansk",
+    "price": "4.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "146235",
+    "name": "Mandelbiskvier",
+    "price": "4.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "116774",
+    "name": "Mandelkubb",
+    "price": "6.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7317065004014
+  },
+  {
+    "id": "116776",
+    "name": "Mandelmassa",
+    "price": "5.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 5709521036226
+  },
+  {
+    "id": "705199",
+    "name": "Mandelmassa",
+    "price": "20.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "115300",
+    "name": "Mandelägg",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 5774540959146
+  },
+  {
+    "id": "244006",
+    "name": "Mangoraja. kall sås. flaska",
+    "price": "8.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "123899",
+    "name": "Mannagryn",
+    "price": "7.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310130010590
+  },
+  {
+    "id": "120491",
+    "name": "Mannagryn KRAV",
+    "price": "7.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "123633",
+    "name": "Marabou Havssalt",
+    "price": "5.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7622201099374
+  },
+  {
+    "id": "121532",
+    "name": "Marabou Hjärta",
+    "price": "11.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "112893",
+    "name": "Marabou Premium Salty Liqourice Kaka",
+    "price": "5.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "132755",
+    "name": "Marianne lösvikt",
+    "price": "2.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117794",
+    "name": "Marianne Original",
+    "price": "3.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "107411",
+    "name": "Mariestad alkoholfri ENGL",
+    "price": "2.5",
+    "tva": 5.5,
+    "stock": 13,
+    "barcode": 7310401009551
+  },
+  {
+    "id": "112004",
+    "name": "Mariestads 3.5 % BRK",
+    "price": "17.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "120926",
+    "name": "Mariestads 3.5% 6-pack BRK",
+    "price": "2.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117668",
+    "name": "Marsan vaniljsås färdig",
+    "price": "5.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310470061108
+  },
+  {
+    "id": "605421",
+    "name": "Marschaller 8h Easy Light ø103mm",
+    "price": "2.4",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "606447",
+    "name": "Marschaller med lock ø103mm brinntid 8tim",
+    "price": "2.3",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 6410405203724
+  },
+  {
+    "id": "134066",
+    "name": "Marsipanbröd nougat",
+    "price": "2.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "115289",
+    "name": "Marsipanägg Mini",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "208485",
+    "name": "Matjessill delad i glasburk MSC",
+    "price": "11.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "201422",
+    "name": "Matjessillfilé MSC",
+    "price": "7.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117835",
+    "name": "Mazarin singel",
+    "price": "2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7315361112372
+  },
+  {
+    "id": "208801",
+    "name": "Medvurst Kokt 110g",
+    "price": "4.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "121387",
+    "name": "Mejram",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "208426",
+    "name": "Mellanmål Cashewnötter Apelsin Ananas Papaya",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "208428",
+    "name": "Mellanmål Hasselnöt Blåbär Tranbär",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "118494",
+    "name": "MER Hallon Blåbär brik",
+    "price": "1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "212164",
+    "name": "Messmör",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "207014",
+    "name": "Messmör Original 5%",
+    "price": "3.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7313160002443
+  },
+  {
+    "id": "123063",
+    "name": "Micropop 3-pack Saltade",
+    "price": "6.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "123065",
+    "name": "Micropop Smör 14 x 240g",
+    "price": "6.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "116748",
+    "name": "Micropopcorn Salt 3 pack",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310532160794
+  },
+  {
+    "id": "116749",
+    "name": "Micropopcorn Smör 3 pack",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310532160787
+  },
+  {
+    "id": "208731",
+    "name": "Mild Yoghurt Müsli kokosflarn/Jordgubb",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "210796",
+    "name": "Milkshake protein choklad",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "210797",
+    "name": "Milkshake Protein Jordgubb",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "235692",
+    "name": "Mimosasallad",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "718497",
+    "name": "Mineralvatten ENGL",
+    "price": "2.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "106844",
+    "name": "Mini krustader",
+    "price": "6.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 40029180505
+  },
+  {
+    "id": "158124",
+    "name": "Mintchoko rulle",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "158289",
+    "name": "Mintkrokant chokladkaka",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "134496",
+    "name": "Mjölkchoklad daimrulle",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "158079",
+    "name": "Mjölkchoklad Kaka",
+    "price": "2.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310511210304
+  },
+  {
+    "id": "158085",
+    "name": "Mjölkchoklad Kaka",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "110559",
+    "name": "Mjölkchoklad Oreo",
+    "price": "5.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "158145",
+    "name": "Mjölkchoklad rulle",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "122063",
+    "name": "Mjölkchokladkaka",
+    "price": "5.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "101095",
+    "name": "Mjölmix grov glutenfri",
+    "price": "12.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "727634",
+    "name": "Mjölmix naturligt. majsbaserad glutenfri och mjölkfri",
+    "price": "13.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "409557",
+    "name": "Morgonsund Frö",
+    "price": "5.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "404861",
+    "name": "Muffins Choklad Kladd Glutenfri Laktosfri",
+    "price": "14.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "149452",
+    "name": "Mums-mums 4-p",
+    "price": "2.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "209853",
+    "name": "Munkens Svarta 31% normalbit",
+    "price": "14.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "110661",
+    "name": "Müsli EKO",
+    "price": "7.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "110775",
+    "name": "Müsli Sunt och Gott",
+    "price": "7.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "185850",
+    "name": "Måltidsknäcke Krög",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "192597",
+    "name": "Mästarmatjes i bit MSC",
+    "price": "6.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311170012094
+  },
+  {
+    "id": "100486",
+    "name": "Nappar Lakrits",
+    "price": "1.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "100493",
+    "name": "Nappar Sura",
+    "price": "1.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117959",
+    "name": "Nejlika hel påse",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117960",
+    "name": "Nejlika malen påse",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "107518",
+    "name": "Never stop påse",
+    "price": "3.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310510001729
+  },
+  {
+    "id": "122667",
+    "name": "Noblesse Havssalt crisp",
+    "price": "#DIV/0!",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7622210976895
+  },
+  {
+    "id": "104809",
+    "name": "Norrlands Guld 3.5 % BRK",
+    "price": "17.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310402006795
+  },
+  {
+    "id": "104809",
+    "name": "Norrlands Guld 3.5 % BRK",
+    "price": "2.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310401006765
+  },
+  {
+    "id": "115189",
+    "name": "Norrlandspölsa",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310862084272
+  },
+  {
+    "id": "108754",
+    "name": "Nougat",
+    "price": "13.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "110005",
+    "name": "Nygårda Ekfatslagrad Julmust REGL",
+    "price": "2.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "103032",
+    "name": "Nygårda Julmust REGL",
+    "price": "1.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "725566",
+    "name": "Nyponsoppa klassisk",
+    "price": "11.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310470013558
+  },
+  {
+    "id": "184869",
+    "name": "Nyponsoppa original",
+    "price": "4.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310470063096
+  },
+  {
+    "id": "212710",
+    "name": "Oat for Whipping",
+    "price": "10.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "123848",
+    "name": "Oboy original påse",
+    "price": "8.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7622210664181
+  },
+  {
+    "id": "134893",
+    "name": "Oboy original påse",
+    "price": "13.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "134952",
+    "name": "Oboy original påse",
+    "price": "21.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "702029",
+    "name": "Oliver svarta utan kärnor",
+    "price": "8.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "238888",
+    "name": "Onsalakorv bit",
+    "price": "10.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "756963",
+    "name": "Onsalakorv ring",
+    "price": "0",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "211852",
+    "name": "Ostkaka",
+    "price": "6.5",
+    "tva": 5.5,
+    "stock": 3,
+    "barcode": 7310890100333
+  },
+  {
+    "id": "111932",
+    "name": "Paradis",
+    "price": "24.8",
+    "tva": 5.5,
+    "stock": 2,
+    "barcode": 7310510002566
+  },
+  {
+    "id": "115053",
+    "name": "Pastellfisk lösvikt.",
+    "price": "1.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "121600",
+    "name": "Penne glutenfri",
+    "price": "6.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 8028833005735
+  },
+  {
+    "id": "107953",
+    "name": "Pepparkaka Jul plåtburk",
+    "price": "11.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "124294",
+    "name": "Pepparkaka Jul plåtburk",
+    "price": "11",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7312220125689
+  },
+  {
+    "id": "146296",
+    "name": "Pepparkakor",
+    "price": "7.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7312220000054
+  },
+  {
+    "id": "734026",
+    "name": "Pepparkakor burk",
+    "price": "33.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "180152",
+    "name": "Pepparkakor glutenfria",
+    "price": "5.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "124440",
+    "name": "Pepparkakor plåtburk. palmfria",
+    "price": "24.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "778344",
+    "name": "Pepparkaksdeg ask",
+    "price": "8.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "201966",
+    "name": "Pepparkaksdeg kyld",
+    "price": "7.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7317062055002
+  },
+  {
+    "id": "210949",
+    "name": "Pepparkaksfil",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "111162",
+    "name": "Pepparkakshjärtan stora",
+    "price": "19.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "121727",
+    "name": "Pepparkakshus",
+    "price": "11.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117962",
+    "name": "Pepparkakskrydda påse",
+    "price": "1.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311311004391
+  },
+  {
+    "id": "741400",
+    "name": "Pepparrot",
+    "price": "0",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "774287",
+    "name": "Pepparrot riven",
+    "price": "24.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "119487",
+    "name": "Pim Pim",
+    "price": "1.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310350109142
+  },
+  {
+    "id": "133738",
+    "name": "PIM PIM tablettask",
+    "price": "0.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310780002327
+  },
+  {
+    "id": "424067",
+    "name": "Pizza Original",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310960713654
+  },
+  {
+    "id": "105943",
+    "name": "Plopp Chokladkaka",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "732695",
+    "name": "Plopp dubbel stycksak",
+    "price": "1.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310040020726
+  },
+  {
+    "id": "116155",
+    "name": "Plopp mini",
+    "price": "0.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "732698",
+    "name": "Plopp stycksak",
+    "price": "0.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "163080",
+    "name": "Pofiber",
+    "price": "6.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310100857200
+  },
+  {
+    "id": "409604",
+    "name": "Polarklämma renkött",
+    "price": "3.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311800008602
+  },
+  {
+    "id": "124482",
+    "name": "Polarknäcke Original",
+    "price": "7.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7313350007203
+  },
+  {
+    "id": "110994",
+    "name": "Polkagrisar",
+    "price": "3.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "109766",
+    "name": "Polly bilar",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "103274",
+    "name": "Polly blå",
+    "price": "3.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310040034556
+  },
+  {
+    "id": "103275",
+    "name": "Polly röd",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310040034563
+  },
+  {
+    "id": "150951",
+    "name": "Potatismjöl",
+    "price": "3.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310160000158
+  },
+  {
+    "id": "235707",
+    "name": "Potatissallad",
+    "price": "4.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7313161311377
+  },
+  {
+    "id": "236756",
+    "name": "Potatissallad",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7313161310561
+  },
+  {
+    "id": "110144",
+    "name": "Premium Dark 70%",
+    "price": "5.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7622400624520
+  },
+  {
+    "id": "100331",
+    "name": "Premium Dark Mint",
+    "price": "5.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "208948",
+    "name": "Prickig korv skiv",
+    "price": "3.5",
+    "tva": 5.5,
+    "stock": 27,
+    "barcode": 7300200264008
+  },
+  {
+    "id": "774015",
+    "name": "Prickig korv skivad",
+    "price": "9.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7300200266002
+  },
+  {
+    "id": "239875",
+    "name": "Prinskorv tunt skinn Sverige",
+    "price": "8.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "105749",
+    "name": "Pripps Blå 3.5% 6-p BRK",
+    "price": "13.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310072766050
+  },
+  {
+    "id": "105749",
+    "name": "Pripps Blå 3.5% 6-p BRK",
+    "price": "2.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310070766052
+  },
+  {
+    "id": "210209",
+    "name": "Proteinmilkshake Choklad Laktosfri",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "210210",
+    "name": "Proteinmilkshake Vit choklad och hallon Laktosfri",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "212347",
+    "name": "Proviva Blåbär",
+    "price": "8.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "122766",
+    "name": "Proviva Hallon/Granatäp",
+    "price": "8.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "205851",
+    "name": "ProViva HallonBjörnbär UTS",
+    "price": "8.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "212343",
+    "name": "Proviva Mango",
+    "price": "8.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7350000550535
+  },
+  {
+    "id": "212346",
+    "name": "Proviva Svart Vinbär",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "211315",
+    "name": "Präst 12 mån 35%",
+    "price": "19.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "209699",
+    "name": "Pucko Original 1.5%",
+    "price": "2.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "290199",
+    "name": "Punschrulle singel",
+    "price": "1.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7315360010914
+  },
+  {
+    "id": "120419",
+    "name": "Påskmust PET",
+    "price": "3.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "154651",
+    "name": "Pärlsocker",
+    "price": "4.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310340114026
+  },
+  {
+    "id": "725308",
+    "name": "Pärlsocker",
+    "price": "7.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "124817",
+    "name": "Ramlösa Granatäpple BRK",
+    "price": "1.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310070004772
+  },
+  {
+    "id": "104804",
+    "name": "Ramlösa original PET",
+    "price": "2.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "115587",
+    "name": "Ramlösa Original PET",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "116329",
+    "name": "Ramlösa Original PET",
+    "price": "1.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "206398",
+    "name": "Ramslök & Citronsill MSC",
+    "price": "6.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311171006979
+  },
+  {
+    "id": "115765",
+    "name": "Ranch & Gräddfil Chips",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "184012",
+    "name": "Remi",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117436",
+    "name": "Remouladsås tub",
+    "price": "3.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "407217",
+    "name": "Renkorv rökt gourmet",
+    "price": "0",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "404128",
+    "name": "Renskav",
+    "price": "12.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7319993289761
+  },
+  {
+    "id": "205656",
+    "name": "Rhode Island Dressing dipp",
+    "price": "1.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "141576",
+    "name": "Risifrutti Blåbär",
+    "price": "3.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "202964",
+    "name": "Risifrutti Hallon",
+    "price": "2.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "203313",
+    "name": "Risifrutti Jordgubb laktosfri",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "203150",
+    "name": "Risifrutti Skogsbär",
+    "price": "2.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "113981",
+    "name": "Riskakor Cheddar",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "163785",
+    "name": "Riskakor Gräddfil Lök glutenfria",
+    "price": "5.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7320496055821
+  },
+  {
+    "id": "147271",
+    "name": "Riskakor lättsaltade EKO",
+    "price": "6.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "192293",
+    "name": "Riskakor Ost glutenfria",
+    "price": "4.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310186055804
+  },
+  {
+    "id": "167939",
+    "name": "Riskakor Pizzasmak glutenfria",
+    "price": "5.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "722758",
+    "name": "Rooibos Blåbär",
+    "price": "7.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "121332",
+    "name": "Rosépeppar hel",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "101416",
+    "name": "Rostad lök",
+    "price": "1.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "120440",
+    "name": "Rotella Fruit lösvikt",
+    "price": "27.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "185594",
+    "name": "Rotmos pulver",
+    "price": "8.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310240066098
+  },
+  {
+    "id": "182928",
+    "name": "Runda Kanel",
+    "price": "5.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7300400115636
+  },
+  {
+    "id": "168446",
+    "name": "Russin",
+    "price": "10.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "191719",
+    "name": "Rågflingor",
+    "price": "6.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310130331084
+  },
+  {
+    "id": "900091",
+    "name": "Rågkaka Tina och servera",
+    "price": "9.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7330671019043
+  },
+  {
+    "id": "192045",
+    "name": "Rågkross",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310130769030
+  },
+  {
+    "id": "712324",
+    "name": "Rågkusar osötad Tina och servera",
+    "price": "10.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7314879170003
+  },
+  {
+    "id": "117407",
+    "name": "Rågmjöl Fint",
+    "price": "7.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117409",
+    "name": "Rågmjöl Grovt",
+    "price": "7.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310130007170
+  },
+  {
+    "id": "117408",
+    "name": "Rågsikt",
+    "price": "8.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310130007194
+  },
+  {
+    "id": "404329",
+    "name": "Rågtuben LF Tina och servera",
+    "price": "10.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "139660",
+    "name": "Rårörda lingon",
+    "price": "14",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310240055184
+  },
+  {
+    "id": "107230",
+    "name": "Rårörda lingon EKO",
+    "price": "17.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7317661714706
+  },
+  {
+    "id": "202047",
+    "name": "Räkor i lake MSC (250-350/lb)",
+    "price": "17.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "205685",
+    "name": "Räkost 16% tub",
+    "price": "12.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "204370",
+    "name": "Räkost 17%",
+    "price": "15.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "212215",
+    "name": "Räksallad",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7313160004997
+  },
+  {
+    "id": "708904",
+    "name": "Röda Hjärtan lösvikt",
+    "price": "1.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "121065",
+    "name": "Rödbetor aptit skivad",
+    "price": "3.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310240051261
+  },
+  {
+    "id": "113508",
+    "name": "Rödbetor. skivade",
+    "price": "7.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310240151169
+  },
+  {
+    "id": "235702",
+    "name": "Rödbetssallad",
+    "price": "3.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7313161311360
+  },
+  {
+    "id": "237584",
+    "name": "Rödbetssallad",
+    "price": "5.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "204730",
+    "name": "Rödbetssallad tärnad",
+    "price": "22.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "707556",
+    "name": "Rödbetssallad tärnad",
+    "price": "28.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "116952",
+    "name": "Saffran påse",
+    "price": "5.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "121917",
+    "name": "Saffran påse",
+    "price": "2.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "110018",
+    "name": "Saffransskorpor",
+    "price": "6.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "184867",
+    "name": "Saftsoppa",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310470063294
+  },
+  {
+    "id": "121335",
+    "name": "Salladskrydda Italiensk glasburk",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "121336",
+    "name": "Salladskrydda Italiensk plastburk",
+    "price": "22.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "154360",
+    "name": "Salmiakbalk lösvikt",
+    "price": "1.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "708916",
+    "name": "Salmiakgrodor lösvikt",
+    "price": "1.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "154340",
+    "name": "Salt sill lösvikt",
+    "price": "1.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "118258",
+    "name": "Salta Jordnötter",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "102008",
+    "name": "Salta Katten",
+    "price": "0.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 6411401037177
+  },
+  {
+    "id": "124651",
+    "name": "Salta Katten",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "123162",
+    "name": "Salty Toffee",
+    "price": "2.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 6416453015753
+  },
+  {
+    "id": "122064",
+    "name": "Salty Toffee Crunch Chokladkaka",
+    "price": "5.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "183347",
+    "name": "Samarin Brustabletter",
+    "price": "11",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "187323",
+    "name": "Sandw Cream Cheese/Gräslök",
+    "price": "1.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "105152",
+    "name": "Sandwich cheese paprika",
+    "price": "1.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7300400128315
+  },
+  {
+    "id": "102840",
+    "name": "Sandwich franska örter",
+    "price": "1.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7300400127394
+  },
+  {
+    "id": "409749",
+    "name": "Sandwich Mörk Sub",
+    "price": "2.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "123142",
+    "name": "Sandwich Sourcream & Onion",
+    "price": "1.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "102839",
+    "name": "Sandwich tomat basilika",
+    "price": "1.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7300400127363
+  },
+  {
+    "id": "158086",
+    "name": "Schweizernöt Chokladkaka",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "158143",
+    "name": "Schweizernöt rulle",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "121203",
+    "name": "Senap original tub",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 8714100751527
+  },
+  {
+    "id": "123191",
+    "name": "Senap plastflaska",
+    "price": "6.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117757",
+    "name": "Senap skånsk glasburk",
+    "price": "7.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310430000581
+  },
+  {
+    "id": "123192",
+    "name": "Senap stark plastflaska",
+    "price": "6.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 8717163867914
+  },
+  {
+    "id": "120554",
+    "name": "Senap stark tub",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "109191",
+    "name": "Senap sötstark EKO plastflaska",
+    "price": "13.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "108911",
+    "name": "Senap sötstark pipflaska",
+    "price": "17.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "109190",
+    "name": "Senap sötstark plastflaska",
+    "price": "6.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7392031000016
+  },
+  {
+    "id": "117964",
+    "name": "Senapsfrö gult påse",
+    "price": "1.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "106672",
+    "name": "Senapssill",
+    "price": "12.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311171006528
+  },
+  {
+    "id": "186036",
+    "name": "Senapssill bit MSC",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311171004135
+  },
+  {
+    "id": "120021",
+    "name": "Shorty Jordgubb. banan & guava",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "209145",
+    "name": "Sill i dillsås",
+    "price": "6.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "111175",
+    "name": "Singoalla blåbär",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "121974",
+    "name": "Singoalla hallon och lakrits",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310520007650
+  },
+  {
+    "id": "111176",
+    "name": "Singoalla original",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310520003089
+  },
+  {
+    "id": "212195",
+    "name": "Skagenröra",
+    "price": "5.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7313160005017
+  },
+  {
+    "id": "207802",
+    "name": "Skinka Rökt skivad SE 200 g",
+    "price": "5.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "115065",
+    "name": "Skivade rödbetor Mor Annas",
+    "price": "8.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "404325",
+    "name": "Skogaholmslimpa skiv Tina och servera",
+    "price": "5.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7314875011010
+  },
+  {
+    "id": "117356",
+    "name": "Skorpor Kardemumma",
+    "price": "5.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311070362572
+  },
+  {
+    "id": "158362",
+    "name": "Skotte dubbel",
+    "price": "1.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310511253608
+  },
+  {
+    "id": "106673",
+    "name": "Skärgårdssill",
+    "price": "11",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311171006535
+  },
+  {
+    "id": "186016",
+    "name": "Skärgårdssill bit MSC",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311171004098
+  },
+  {
+    "id": "408901",
+    "name": "Slät bulle GF LF",
+    "price": "11.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "109304",
+    "name": "Smart Meal Chokladdryck",
+    "price": "5.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "119265",
+    "name": "Smash",
+    "price": "5.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310520006851
+  },
+  {
+    "id": "124459",
+    "name": "Smash Bar choklad",
+    "price": "2.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "200908",
+    "name": "Smoothie Ananas Banan Kokos ENGL",
+    "price": "3.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7350020720093
+  },
+  {
+    "id": "206599",
+    "name": "Smoothie blåbär hallon ENGL",
+    "price": "3.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7350020720024
+  },
+  {
+    "id": "206225",
+    "name": "Smoothie Jordgubb Banan Guava ENGL",
+    "price": "3.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7350020720734
+  },
+  {
+    "id": "120020",
+    "name": "Smoothie Mango Apelsin",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "206598",
+    "name": "Smoothie Mango Apelsin ENGL",
+    "price": "3.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "205635",
+    "name": "Smoothie Peach & Passion ENGL",
+    "price": "3.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "102680",
+    "name": "Smultronmatta lösvikt",
+    "price": "1.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "409123",
+    "name": "Små delikatess köttbullar",
+    "price": "10.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310240039504
+  },
+  {
+    "id": "111273",
+    "name": "Småkakor 4 sorter",
+    "price": "9.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "901020",
+    "name": "Småkakor mixlåda. kolakaka. hallonkrans. havrekaka. vaniljdröm",
+    "price": "8.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "205820",
+    "name": "Småländsk sylta",
+    "price": "4.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "700612",
+    "name": "Smör 82 % normalsaltat",
+    "price": "24.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "700644",
+    "name": "Smörgåsfett 75% extrasaltat",
+    "price": "6.5",
+    "tva": 5.5,
+    "stock": 16,
+    "barcode": 7310860005859
+  },
+  {
+    "id": "120331",
+    "name": "Smörgåsgurka skivad",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310240050189
+  },
+  {
+    "id": "112631",
+    "name": "Smörgåsgurka. skivad",
+    "price": "7.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310240150131
+  },
+  {
+    "id": "145844",
+    "name": "Smörgåsrån Vete",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310521080300
+  },
+  {
+    "id": "408638",
+    "name": "Smörgåstårtbotten rund 14 cm ljus",
+    "price": "1.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "407375",
+    "name": "Smörgåstårtbotten rund 22 cm ljus",
+    "price": "12.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "109435",
+    "name": "Snabbmakaroner",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310130003530
+  },
+  {
+    "id": "145247",
+    "name": "Snabbmarsan vaniljsås 7p",
+    "price": "2.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310470016283
+  },
+  {
+    "id": "702786",
+    "name": "Snickers lösvikt",
+    "price": "2.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "115406",
+    "name": "Snören cola",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 5700417990202
+  },
+  {
+    "id": "137548",
+    "name": "Snören jordgubb",
+    "price": "2.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "137546",
+    "name": "Snören kola",
+    "price": "2.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "167928",
+    "name": "Sockerkaka mix",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "125013",
+    "name": "Soldatens ärtsoppa extra fläsk",
+    "price": "7.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310390001383
+  },
+  {
+    "id": "760721",
+    "name": "Sopset halvlångt",
+    "price": "21.5",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "120483",
+    "name": "Sparkles Fläder Citron PET",
+    "price": "2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "182639",
+    "name": "Sparrissoppa",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7322550031796
+  },
+  {
+    "id": "792372",
+    "name": "Spisbröd",
+    "price": "13.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "182918",
+    "name": "Sport knäckebröd",
+    "price": "4.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7300400114752
+  },
+  {
+    "id": "200327",
+    "name": "Steksill m skinn MSC",
+    "price": "8.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "776642",
+    "name": "Stenbitsrom svart MSC",
+    "price": "89.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7392497082298
+  },
+  {
+    "id": "731741",
+    "name": "Stimorol Original",
+    "price": "3.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "147245",
+    "name": "Ströbröd",
+    "price": "5.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7300400312400
+  },
+  {
+    "id": "154668",
+    "name": "Strösocker",
+    "price": "9.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "118579",
+    "name": "Stycksaker automat stor. 4 sorter",
+    "price": "1.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "410637",
+    "name": "Surdegskaka Vete osötad",
+    "price": "5.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "112188",
+    "name": "Surdegskex med havssalt",
+    "price": "7.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "212708",
+    "name": "Surströmming",
+    "price": "16.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "709852",
+    "name": "Surströmming",
+    "price": "13.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "108813",
+    "name": "Svagdricka REGL",
+    "price": "1.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "724727",
+    "name": "Svampduk Classic mix 4st",
+    "price": "5.811",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 7391704800144
+  },
+  {
+    "id": "211079",
+    "name": "Svart Finkornig Rom MSC",
+    "price": "10.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "112416",
+    "name": "Svart vinbärsgelé",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "101401",
+    "name": "Svart vinbärsgelé KRAV",
+    "price": "8.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "900759",
+    "name": "Svartvinbärsgelé",
+    "price": "14",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "107999",
+    "name": "Svartvinbärssaft KRAV",
+    "price": "7.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117566",
+    "name": "Svartvinbärssaft",
+    "price": "8.9",
+    "tva": 5.5,
+    "stock": 15,
+    "barcode": 7310770571581
+  },
+  {
+    "id": "207662",
+    "name": "Svecia 28% SGB",
+    "price": "0",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "167846",
+    "name": "Syltsocker",
+    "price": "7.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310340112473
+  },
+  {
+    "id": "158468",
+    "name": "Syrlig Happy Chew lösvikt",
+    "price": "1.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "101487",
+    "name": "Syrlingar lösvikt",
+    "price": "1.3",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "607025",
+    "name": "Såpa citron 750ml",
+    "price": "4.4",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 7310610021450
+  },
+  {
+    "id": "607024",
+    "name": "Såpa grön 750ml",
+    "price": "4.4",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 7310610021474
+  },
+  {
+    "id": "607026",
+    "name": "Såpa gul 750ml",
+    "price": "4.4",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 7310610021467
+  },
+  {
+    "id": "114523",
+    "name": "Taco Spice Mix påse",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311310031015
+  },
+  {
+    "id": "169545",
+    "name": "Taco Tubs",
+    "price": "8.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311310038205
+  },
+  {
+    "id": "101060",
+    "name": "Tacoskal",
+    "price": "7.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311310038038
+  },
+  {
+    "id": "116939",
+    "name": "Tacosås Hot",
+    "price": "4.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311312002143
+  },
+  {
+    "id": "117114",
+    "name": "Tacosås Medium",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311312002112
+  },
+  {
+    "id": "117113",
+    "name": "Tacosås Mild",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7311312002075
+  },
+  {
+    "id": "124724",
+    "name": "Tasty Bites Poppy seed Sourdough & Sea salt",
+    "price": "4.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "124012",
+    "name": "Te hallon grädde EKO FT",
+    "price": "0.777",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7350054815833
+  },
+  {
+    "id": "124038",
+    "name": "Te rabarber vanilj EKO FT",
+    "price": "0.777",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7350054815741
+  },
+  {
+    "id": "111342",
+    "name": "Tomatketchup Original",
+    "price": "5.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310240060638
+  },
+  {
+    "id": "122188",
+    "name": "Tomatketchup Osötad",
+    "price": "8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "104910",
+    "name": "Tonfiskpastej MSC",
+    "price": "6.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "121743",
+    "name": "Torrjäst för matbröd",
+    "price": "2.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 73500391
+  },
+  {
+    "id": "121740",
+    "name": "Torrjäst söt deg",
+    "price": "2.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 73500360
+  },
+  {
+    "id": "115895",
+    "name": "Tortilla Chips Cheese",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "115897",
+    "name": "Tortilla Chips Salted",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "210307",
+    "name": "Trekantmacka Kebab",
+    "price": "6.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "210308",
+    "name": "Trekantmacka Kyckling",
+    "price": "6.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "210305",
+    "name": "Trekantmacka Salami. Oliver. Ruccola",
+    "price": "6.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "108342",
+    "name": "Trocadero BRK",
+    "price": "1.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "120271",
+    "name": "Trocadero PET",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310401000374
+  },
+  {
+    "id": "123507",
+    "name": "Trocadero PET",
+    "price": "2.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "120412",
+    "name": "Trocadero zero BRK",
+    "price": "1.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "120414",
+    "name": "Trocadero zero PET",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "100957",
+    "name": "Tunnbröd Gammeldags",
+    "price": "8.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "107618",
+    "name": "Tunnbröd Gene original",
+    "price": "6.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "100958",
+    "name": "Tunnbröd Korn",
+    "price": "9.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "400378",
+    "name": "Tunnbröd litet rektangulärt Tina och servera mjölkfritt",
+    "price": "0.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "715644",
+    "name": "Tunnbröd rektangel Tina och servera",
+    "price": "1.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "409940",
+    "name": "Tunnbröd sviktat Tina och servera",
+    "price": "4.1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "774495",
+    "name": "Tunnpannkaka enkelvikt",
+    "price": "0.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "119493",
+    "name": "Tutti Frutti Original",
+    "price": "3.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 6416453038271
+  },
+  {
+    "id": "111975",
+    "name": "Tutti Frutti Passion",
+    "price": "3.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "115943",
+    "name": "Tutti Frutti Sour",
+    "price": "3.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "102009",
+    "name": "Tutti Frutti tablettask",
+    "price": "0.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "100733",
+    "name": "Twist",
+    "price": "7.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "604400",
+    "name": "Tvål pump flytande 300ml Blåbär",
+    "price": "4.4",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "602711",
+    "name": "Tvålull 100g Bra miljöval",
+    "price": "5",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 7310034230100
+  },
+  {
+    "id": "111979",
+    "name": "Tyrkisk Peber Original",
+    "price": "2.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 6416453028210
+  },
+  {
+    "id": "123566",
+    "name": "Tyrkisk Peber Soft and Salty",
+    "price": "2.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "122800",
+    "name": "Tårtbotten 24 cm",
+    "price": "6.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "118905",
+    "name": "Tändstickor",
+    "price": "3.5",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 7310680023118
+  },
+  {
+    "id": "118906",
+    "name": "Tändstickor 8-Pack",
+    "price": "4.1",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 7310680022517
+  },
+  {
+    "id": "150006",
+    "name": "Vaniljsocker",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "110097",
+    "name": "Vaniljsocker ögon",
+    "price": "2.9",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 6416453068865
+  },
+  {
+    "id": "235247",
+    "name": "Vaniljsås 10%",
+    "price": "2.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "208423",
+    "name": "Vaniljvisp",
+    "price": "4.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "403729",
+    "name": "Varsågod skivad Tina och servera",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "114884",
+    "name": "Vetemjöl special",
+    "price": "8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310130006050
+  },
+  {
+    "id": "404282",
+    "name": "Vetetuben Tina och servera",
+    "price": "10.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "200674",
+    "name": "Wienerkorv Sverige",
+    "price": "15.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7330671013171
+  },
+  {
+    "id": "180118",
+    "name": "Viltfond kantarell 0.8% salt",
+    "price": "9.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7322550052692
+  },
+  {
+    "id": "102010",
+    "name": "Viol Tablettask",
+    "price": "1",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 6411401037184
+  },
+  {
+    "id": "208512",
+    "name": "Visp havre 20%",
+    "price": "4.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "209970",
+    "name": "Vispgrädde Sojabaserad Edge 25.5%",
+    "price": "8.5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "192858",
+    "name": "Vitvinsvinäger",
+    "price": "5.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310155506405
+  },
+  {
+    "id": "759976",
+    "name": "Vitvinsvinäger",
+    "price": "12",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310155506450
+  },
+  {
+    "id": "123351",
+    "name": "Välling med fullkorn. osockrad",
+    "price": "20.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "707356",
+    "name": "Värmeljus 39mm 4h",
+    "price": "7.1",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "706094",
+    "name": "Värmeljus 39mm 6h",
+    "price": "5.9",
+    "tva": 20,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "752382",
+    "name": "Värmeljus 59mm Maxi 10h",
+    "price": "15.2",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 7321010006107
+  },
+  {
+    "id": "900907",
+    "name": "Värmeljus vegetabiliskt fett ø39mm 6h",
+    "price": "7.4",
+    "tva": 20,
+    "stock": 5,
+    "barcode": 5024333237181
+  },
+  {
+    "id": "784673",
+    "name": "Västerbottensost 35% normalbit",
+    "price": "26.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310861081005
+  },
+  {
+    "id": "410057",
+    "name": "Vörtlimpa skivad",
+    "price": "10.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "117986",
+    "name": "Vörtmix påse",
+    "price": "3.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "183308",
+    "name": "Wafers Jätten vanilj",
+    "price": "7.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310525501412
+  },
+  {
+    "id": "209285",
+    "name": "Yalla drickyoghurt hallon och blåbär",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "202042",
+    "name": "Yoggi jordgubb smultron 2%",
+    "price": "7.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "115031",
+    "name": "Yogi Tea Rooibos KRAV",
+    "price": "9.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "103642",
+    "name": "Zingo orange BRK",
+    "price": "1.4",
+    "tva": 5.5,
+    "stock": 30,
+    "barcode": 7310070766113
+  },
+  {
+    "id": "119710",
+    "name": "Zoo",
+    "price": "1.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310350103959
+  },
+  {
+    "id": "141785",
+    "name": "Zoo Tablettask",
+    "price": "0.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310780002303
+  },
+  {
+    "id": "208770",
+    "name": "Åseda Gräddost 38%",
+    "price": "14.3",
+    "tva": 5.5,
+    "stock": 7,
+    "barcode": 5711953018275
+  },
+  {
+    "id": "205691",
+    "name": "Ädelost 19% tub",
+    "price": "9.7",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "206202",
+    "name": "Ädelost Grädd 36%",
+    "price": "6.8",
+    "tva": 5.5,
+    "stock": 4,
+    "barcode": 7311878172335
+  },
+  {
+    "id": "192859",
+    "name": "Äppelcidervinäger",
+    "price": "5",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310155507495
+  },
+  {
+    "id": "112409",
+    "name": "Äppelmos med mer frukt & mindre socker",
+    "price": "6.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "111852",
+    "name": "Äppelmos osötad EKO",
+    "price": "12.8",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": null
+  },
+  {
+    "id": "133357",
+    "name": "Äpplemos",
+    "price": "4.6",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310090301882
+  },
+  {
+    "id": "109572",
+    "name": "Ättika 24%",
+    "price": "4.2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7320081190302
+  },
+  {
+    "id": "101901",
+    "name": "Ättikssprit 12%",
+    "price": "5.4",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7310300011020
+  },
+  {
+    "id": "192335",
+    "name": "Örtsalt Herbamare EKO",
+    "price": "12",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": 7610313412143
+  },
+  {
+    "name": "Mer Päron",
+    "price": 2,
+    "tva": 5.5,
+    "stock": 4,
+    "barcode": "54490475"
+  },
+  {
+    "name": "Aqua d'or",
+    "price": 2,
+    "tva": 5.5,
+    "stock": 6,
+    "barcode": "5703828003288"
+  },
+  {
+    "name": "Ramlösa 0.5L",
+    "price": "2",
+    "tva": 5.5,
+    "stock": 11,
+    "barcode": "7310070001719"
+  },
+  {
+    "name": "Loka Citron 33cL",
+    "price": "2",
+    "tva": 5.5,
+    "stock": 5,
+    "barcode": "7310401007113"
+  },
+  {
+    "name": "Trocadero 33cL",
+    "price": "2",
+    "tva": "5.5",
+    "stock": 16,
+    "barcode": "7310401007151"
+  },
+  {
+    "name": "Loka Crush Päron 33cL",
+    "price": "2",
+    "tva": "5.5",
+    "stock": 4,
+    "barcode": "7310401020952"
+  },
+  {
+    "name": "Julmust Apotekarnes Sockerfri 0.5L",
+    "price": "2.5",
+    "tva": "5.5",
+    "stock": 15,
+    "barcode": "7310070733856"
+  },
+  {
+    "name": "Julmust Apotekarnes 33cL",
+    "price": "2",
+    "tva": "5.5",
+    "stock": 22,
+    "barcode": "7310070765802"
+  },
+  {
+    "name": "Julmust Apotekarnes 1.4L",
+    "price": "3.95",
+    "tva": "5.5",
+    "stock": 8,
+    "barcode": "7310070151209"
+  },
+  {
+    "name": "Julmust Apotekarnes 0.5L",
+    "price": "2.5",
+    "tva": "5.5",
+    "stock": 4,
+    "barcode": "7310070059208"
+  },
+  {
+    "name": "Herrljunga Julmust 33cL",
+    "price": "2",
+    "tva": "5.5",
+    "stock": 15,
+    "barcode": "7312720042271"
+  },
+  {
+    "name": "Lagrad Julmust Nygårda 33cL",
+    "price": "2",
+    "tva": "5.5",
+    "stock": 14,
+    "barcode": "7310401004778"
+  },
+  {
+    "name": "Blandsaft Hallon BOB",
+    "price": "7.95",
+    "tva": "5.5",
+    "stock": 10,
+    "barcode": "7310090345138"
+  },
+  {
+    "name": "Julmust Apotekarnes Sockerfri 1.4L",
+    "price": "3.95",
+    "tva": "5.5",
+    "stock": 5,
+    "barcode": "7310070151308"
+  },
+  {
+    "name": "Jokk Lingon 1L",
+    "price": "5.25",
+    "tva": "5.5",
+    "stock": 6,
+    "barcode": "7310861008804"
+  },
+  {
+    "name": "Blossa Glögg Lätt 75cL",
+    "price": "9.95",
+    "tva": "5.5",
+    "stock": 5,
+    "barcode": "5710778002148"
+  },
+  {
+    "name": "Flaggpunsch 26% 0.5L",
+    "price": "25",
+    "tva": "20",
+    "stock": 3,
+    "barcode": "7312041588021"
+  },
+  {
+    "name": "Purity Vodka 40% 0.7L",
+    "price": "39",
+    "tva": "20",
+    "stock": 1,
+    "barcode": "7350043200015"
+  },
+  {
+    "name": "Helsingborg Lager 5% 33cL",
+    "price": "5",
+    "tva": "5.5",
+    "stock": 2,
+    "barcode": "7350060230019"
+  },
+  {
+    "name": "Mandel biskvier",
+    "price": "3.5",
+    "tva": "5.5",
+    "stock": 17,
+    "barcode": "7310040094727"
+  },
+  {
+    "name": "Iskonfekt Glutenfri",
+    "price": "6.5",
+    "tva": "5.5",
+    "stock": 6,
+    "barcode": "4008601261802"
+  },
+  {
+    "name": "Extra White",
+    "price": "3",
+    "tva": "5.5",
+    "stock": 14,
+    "barcode": "4009900527897"
+  },
+  {
+    "name": "Risgröt Felix 500g",
+    "price": "2.95",
+    "tva": "5.5",
+    "stock": 6,
+    "barcode": "7310090755692"
+  },
+  {
+    "name": "Kvibille Cheddar",
+    "price": "19.95",
+    "tva": "5.5",
+    "stock": 6,
+    "barcode": "2340302104289"
+  },
+  {
+    "name": "Leverpastej Lönneberga",
+    "price": "3.5",
+    "tva": "5.5",
+    "stock": 16,
+    "barcode": "7310941801301"
+  },
+  {
+    "name": "Gammeldags Enrisrökt Korv 300g",
+    "price": "6.5",
+    "tva": "5.5",
+    "stock": 2,
+    "barcode": "7300202175005"
+  },
+  {
+    "name": "Lohmanders Bearnaise",
+    "price": "5.4",
+    "tva": "5.5",
+    "stock": 6,
+    "barcode": "7313160004744"
+  },
+  {
+    "name": "Mangoraja",
+    "price": "6.95",
+    "tva": "5.5",
+    "stock": 8,
+    "barcode": "7313161404987"
+  },
+  {
+    "name": "Kallrökt Lax 350g Korshags",
+    "price": "24.95",
+    "tva": "5.5",
+    "stock": 10,
+    "barcode": "2357553003612"
+  },
+  {
+    "name": "Gravad Lax 350g Korshags",
+    "price": "24.95",
+    "tva": "5.5",
+    "stock": 6,
+    "barcode": "2357552803565"
+  },
+  {
+    "name": "Varmrökt Lax Naturell 125g Korshags",
+    "price": "9.95",
+    "tva": "5.5",
+    "stock": 4,
+    "barcode": "000005755325"
+  },
+  {
+    "name": "Varmrökt Lax Citron 125g Korshags",
+    "price": "9.95",
+    "tva": "5.5",
+    "stock": 8,
+    "barcode": "000005755332"
+  },
+  {
+    "name": "Kallrökt Lax 150g Korshags",
+    "price": "12.95",
+    "tva": "5.5",
+    "stock": 15,
+    "barcode": "2357552901506"
+  },
+  {
+    "name": "Gravad Lax 150g Korshags",
+    "price": "12.95",
+    "tva": "5.5",
+    "stock": 3,
+    "barcode": "2357552701502"
+  },
+  {
+    "name": "Tunnbröd Hård",
+    "price": "6.95",
+    "tva": "5.5",
+    "stock": 5,
+    "barcode": "7313830006795"
+  },
+  {
+    "name": "Le Suédois Pour Les Nuls",
+    "price": "7.95",
+    "tva": "5.5",
+    "stock": 12,
+    "barcode": "9782412042694"
+  }
+]
